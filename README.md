@@ -11,3 +11,6 @@ https://chalk-emperor-271.notion.site/Data-structures-and-algorithms-2d48e05adad
 
 Pytorch
 https://github.com/rzamaham/TorchCode
+
+Deep Learning with Pytorch
+https://github.com/rzamaham/deep-learning-with-pytorch
