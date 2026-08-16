@@ -14,3 +14,6 @@ https://github.com/rzamaham/TorchCode
 
 Deep Learning with Pytorch
 https://github.com/rzamaham/deep-learning-with-pytorch
+
+vLLM
+https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm
