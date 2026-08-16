@@ -1,4 +1,4 @@
-Please download pdf file (Academic_CV) to click the underlined text. This feature is disabled in github preview mode.
+Please download pdf file (Academic_CV) to click the links. This feature is disabled in github preview mode.
 
 Statistics
 https://chalk-emperor-271.notion.site/Statistics-9466576f15774142a6e098727304ed0e?source=copy_link
