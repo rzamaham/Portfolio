@@ -19,5 +19,5 @@ vLLM
 https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm
 
 Tracks
-https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
-https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists
+1) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
+2) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists
