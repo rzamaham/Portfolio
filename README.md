@@ -18,6 +18,6 @@ https://github.com/rzamaham/deep-learning-with-pytorch
 vLLM
 https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm
 
-Tracks
+AI Engineer Tracks
 1) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
 2) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists
