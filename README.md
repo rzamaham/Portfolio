@@ -9,15 +9,6 @@ https://chalk-emperor-271.notion.site/Machine-Learning-d1a10ee279384f95a04516397
 Data Structures and Algorithms
 https://chalk-emperor-271.notion.site/Data-structures-and-algorithms-2d48e05adade4b528f07798943eb8b0f?source=copy_link
 
-Pytorch
-https://github.com/rzamaham/TorchCode
-
-Deep Learning with Pytorch
-https://github.com/rzamaham/deep-learning-with-pytorch
-
-vLLM
-https://www.deeplearning.ai/courses/fast-and-efficient-llm-inference-with-vllm
-
 AI Engineer Tracks
 1) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-developers
 2) https://app.datacamp.com/learn/career-tracks/associate-ai-engineer-for-data-scientists
