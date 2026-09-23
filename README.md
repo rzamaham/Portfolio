@@ -1,5 +1,3 @@
-Please download pdf file (Mahammadali_Rzayev_Lebenslauf) to click the links. This feature is disabled in github preview mode.
-
 Dynamic Optimization and Decision Theory under Uncertainty
 https://chalk-emperor-271.notion.site/Dynamic-Optimization-and-Decision-Theory-under-Uncertainty-c7cb1ba2955283c695a30130fffcaec7?source=copy_link
 
